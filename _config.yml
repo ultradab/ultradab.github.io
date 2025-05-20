@@ -1,5 +1,5 @@
 name: My Site
-remote_ theme: pages_themes/midnight@v0.2.0
+remote_theme: pages_themes/midnight@v0.2.0
 description: this is a test to see if I can't get this thing working
 title: Juan Rivera
 tagline:
