@@ -4,5 +4,5 @@ description: this is a test to see if I can't get this thing working
 title: Juan Rivera
 tagline:
 description: This is a test site for now
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+show_downloads: true
+##google_analytics: [Your Google Analytics tracking ID]
