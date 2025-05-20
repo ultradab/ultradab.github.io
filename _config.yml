@@ -1,3 +1,10 @@
 name: My Site
-theme: jekyll-theme-minima
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 description: this is a test to see if I can't get this thing working
+title: Juan Rivera
+tagline:
+description: This is a test site for now
+show_downloads: true
+##google_analytics: [Your Google Analytics tracking ID]
